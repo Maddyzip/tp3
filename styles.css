@@ -1,29 +1,29 @@
 h1 {
-  font-family: times new roman;
+  font-family: 'Cinzel', sans-serif;
   font-size: 36px;
-  color: red;
+  color: darkred;
 }
 h4 {
 
-font-family: 'Cinzel', sans-serifserif;
+font-family: 'Cinzel', sans-serif;
   margin-bottom: 0;
   font-size: 24px;
 }
-
 ul, ol {
   margin-top: 0;
 }
 
 .copyright {
-  font-family: helvetica neue;
+  font-family:times new roman;
   font-size: 9px;
   font-style: italic;
 }
 
-#ingredients {color: orange; }
+#ingredients {color: darkred; }
 
-#equipment {color: #FFDB58; }
+#equipment {color: darkred; }
 
-#directions {color: green; }
+#directions {color: darkred; }
 
-.makeblue {color: blue; }
+.makeblue {color: darkblue; }
+.makeblack {color: black}
