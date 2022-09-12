@@ -1,9 +1,11 @@
 h1 {
-  font-family: Arial;
+  font-family: times new roman;
+  font-size: 36px;
+  color: red;
 }
-
 h4 {
   margin-bottom: 0;
+  font-size: 24px;
 }
 
 ul, ol {
@@ -11,7 +13,15 @@ ul, ol {
 }
 
 .copyright {
-  font-family: Arial;
+  font-family: helvetica neue;
   font-size: 9px;
   font-style: italic;
 }
+
+#ingredients {color: orange; }
+
+#equipment {color: #FFDB58; }
+
+#directions {color: green; }
+
+.makeblue {color: blue; }
